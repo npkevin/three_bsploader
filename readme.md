@@ -4,8 +4,14 @@
 
 ## Quick Guide
 
+```
+npm i
+npm run build
+```
+
 ```typescript
 import { Scene } from "three";
+import { BSPLoader } from "./dist/loaders/BSPLoader";
 // ... your Three.js code
 const scene = new Scene();
 
