@@ -38,4 +38,4 @@ loader.load("de_vertigo.bsp", (group) => {
 <img src="https://github.com/npkevin/three_bsploader/blob/master/screenshots/overpass_1.png?raw=true" width=400></img>
 <img src="https://github.com/npkevin/three_bsploader/blob/master/screenshots/nuke_1.png?raw=true" width=400></img>
 <img src="https://github.com/npkevin/three_bsploader/blob/master/screenshots/inferno_1.png?raw=true" width=400></img>
-<img src="https://github.com/npkevin/three_bsploader/blob/master/screenshots/mirage_2.png?raw=true" width=400></img>
+<img src="https://github.com/npkevin/three_bsploader/blob/master/screenshots/mirage_1.png?raw=true" width=400></img>
