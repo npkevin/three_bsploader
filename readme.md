@@ -5,6 +5,7 @@
 <img src="https://github.com/npkevin/three_bsploader/blob/master/screenshots/overpass_1.png?raw=true" width=300></img>
 <img src="https://github.com/npkevin/three_bsploader/blob/master/screenshots/nuke_1.png?raw=true" width=300></img>
 <img src="https://github.com/npkevin/three_bsploader/blob/master/screenshots/inferno_1.png?raw=true" width=300></img>
+<img src="https://github.com/npkevin/three_bsploader/blob/master/screenshots/mirage_2.png?raw=true" width=300></img>
 
 ## Quick Guide
 
