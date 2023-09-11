@@ -24,14 +24,14 @@ loader.load("de_vertigo.bsp", (group) => {
 
 ## Loaders
 
-| Loader | Status  | Exports        |
-| ------ | ------- | -------------- |
-| BSP    | V21\*   | THREE.Group    |
-| VMT    | Working | THREE.Material |
-| VTF    | Working | THREE.Texture  |
-| MDL    | WIP     | THREE.Group    |
-| VTX    | WIP     | WIP            |
-| VVD    | WIP     | WIP            |
+| Loader | Exports        | Status  |
+| ------ | -------------- | ------- |
+| BSP    | THREE.Group    | V21\*   |
+| VMT    | THREE.Material | Working |
+| VTF    | THREE.Texture  | Working |
+| MDL    | THREE.Group    | WIP     |
+| VTX    | WIP            | WIP     |
+| VVD    | WIP            | WIP     |
 
 **_\* only tested with csgo files (v21)_**
 
